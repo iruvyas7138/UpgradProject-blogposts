@@ -1,0 +1,50 @@
+
+.logo{
+  margin-left: 5px;
+  font-size: 24px;
+  color: blue;
+  font-family: 'Montez', cursive; 
+}
+.signup-button {
+  display: inline-block;
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 4px;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.1);
+}
+.signin-button {
+  display: inline-block;
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 4px;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.1);
+}
+.all-posts {
+  display: inline-block;
+  background-color: #e4f61a;
+  color: rgb(15, 4, 4);
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 4px;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.1);
+}
+.create-posts {
+  display: inline-block;
+  background-color: #e4f61a;
+  color: rgb(1, 0, 0);
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 4px;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+.larger-input {
+    width: 300px;
+    height: 40px;
+   
+  }
+  
